@@ -33,4 +33,5 @@ y_pred = model.predict(X_test)
 
 # Calculate accuracy
 accuracy = accuracy_score(y_test, y_pred)
+# Print the accuracy
 print(f"Accuracy: {accuracy * 100:.2f}%")

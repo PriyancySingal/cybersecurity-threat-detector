@@ -5,3 +5,5 @@
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (python project)" project-jdk-type="Python SDK" />
 </project>
+
+# change version to fix compatibility with latest PyCharm versions
